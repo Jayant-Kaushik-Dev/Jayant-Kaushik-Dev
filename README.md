@@ -5,9 +5,10 @@
 
 - 🌱 I’m currently learning: **Python**
 
-- #💬 Ask me about: **Python, UX/UI Design**#
-
 - 📫 Reach me at: **ajkaushik98@gmail.com**
+
+<!-- 💬 Ask me about: **Python, UX/UI Design**-->
+
 
 
 <p align="left">
