@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jayant Kaushik</h1>
 <h3 align="center">A passionate Software Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2tpZDk2YTd1dnNrMWw5cG5pcGs1Mzh4am8yaXRneDhjYXJ2cGdsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
-- 🔭 I’m currently working on: **A Task manager API with FastAPI**
+- 🔭 I’m currently working on: **A Job Tracker App with FastAPI**
 
 - 🌱 I’m currently learning: **Python**
 
